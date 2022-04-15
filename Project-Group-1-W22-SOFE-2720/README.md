@@ -21,8 +21,8 @@ This project is an online shopping system to purchase goods for use for Store TM
 
 # Directory
 This repository contains information on the project.
-[Code](Code)
-[Design](Design)
-[Requirements](Requirements)
-[Test Case](Test_Case)
-[Use Cases](Use_Cases)
+- [Code](Code)
+- [Design](Design)
+- [Requirements](Requirements)
+- [Test Case](Test_Case)
+- [Use Cases](Use_Cases)
